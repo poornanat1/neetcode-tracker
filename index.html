@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#292827">
+  <title>Loop Club · NeetCode 250 Tracker</title>
+  <link rel="stylesheet" href="./src/styles.css">
+  <script type="module" src="./src/app.js"></script>
+</head>
+<body>
+  <div id="landing">
+    <header class="masthead">
+      <a class="brand" href="#home"><i></i> Loop Club</a>
+      <a class="quiet" id="landing-account" href="#sign-in">Sign in</a>
+    </header>
+    <main>
+      <section class="hero landing-hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="accent-mark"></span>A NeetCode 250 tracker</p>
+          <h1>Practice.<br>Review<span class="period">.</span><br>Repeat.</h1>
+          <p class="landing-intro">Work through the NeetCode 250 at your own pace. Log your attempts, revisit tricky problems, and see your progress by topic.</p>
+          <a class="primary" id="landing-start" href="#sign-up">Create an account</a>
+        </div>
+      </section>
+    </main>
+  </div>
+  <div class="app-shell" hidden>
+    <header class="masthead">
+      <a class="brand" href="#home"><i></i> Loop Club</a>
+      <nav aria-label="Main navigation">
+        <a href="#today">Today</a><a href="#problems">Problems</a><a href="#review">Review</a><a href="#progress">Progress</a>
+      </nav>
+      <div class="account-actions"><button class="quiet" id="backup">Export backup</button> <button class="quiet" id="sign-out">Sign out</button></div>
+    </header>
+    <main id="main"><p>Loading your schedule…</p></main>
+    <footer><span>Loop Club / NeetCode 250</span><span id="storage-status" role="status">Connecting…</span></footer>
+  </div>
+  <div id="auth-screen" hidden>
+    <header class="masthead">
+      <a class="brand" href="#home"><i></i> Loop Club</a>
+    </header>
+    <main>
+      <section class="hero auth-hero">
+        <div class="hero-copy"><p class="eyebrow"><span class="accent-mark"></span>NeetCode 250</p><h1>Loop Club<span class="period">.</span></h1></div>
+      </section>
+      <section class="auth-content" aria-labelledby="auth-title">
+        <h2 id="auth-title">Sign in</h2>
+        <form id="auth-form" method="post">
+          <label>Email <input name="email" type="email" autocomplete="username" maxlength="254" required></label>
+          <label>Password <input name="password" type="password" autocomplete="current-password" maxlength="128" required></label>
+          <p id="auth-error" role="alert" hidden></p>
+          <button class="primary" type="submit">Sign in</button>
+        </form>
+        <button class="quiet" id="auth-switch" type="button">Create an account</button>
+        <p class="privacy-note">We store a keyed hash of your email instead of the address itself. Your password is stored as a separate salted hash. Your practice history is private to your account.</p>
+      </section>
+    </main>
+  </div>
+  <dialog id="attempt" aria-labelledby="attempt-title">
+    <form id="attempt-form">
+      <div class="dialog-heading"><span class="eyebrow">Practice log</span><button type="button" class="quiet" id="close">Close</button></div>
+      <h2 id="attempt-title"></h2>
+      <label>Outcome <select name="outcome"><option value="Done">Solved independently</option><option value="Redo">Solved with help or too slowly</option><option value="Stuck">Didn't solve</option></select></label>
+      <label>Time in minutes <input name="minutes" type="number" min="1" max="600" placeholder="Optional"></label>
+      <label>What will you remember? <textarea name="note" rows="3" maxlength="2000" placeholder="An approach, a mistake, or a next step"></textarea></label>
+      <button class="primary" type="submit">Save attempt</button>
+      <p id="attempt-error" role="alert" hidden></p>
+      <section id="history" aria-label="Attempt history"></section>
+    </form>
+  </dialog>
+</body>
+</html>

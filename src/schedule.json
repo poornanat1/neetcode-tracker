@@ -1,0 +1,2622 @@
+{
+  "problems": [
+    {
+      "date": "2026-09-21",
+      "title": "Concatenation of Array",
+      "id": "5",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/concatenation-of-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Contains Duplicate",
+      "id": "6",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/contains-duplicate/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Valid Anagram",
+      "id": "7",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Two Sum",
+      "id": "8",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Longest Common Prefix",
+      "id": "9",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/longest-common-prefix/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Group Anagrams",
+      "id": "10",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Remove Element",
+      "id": "11",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/remove-element/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Majority Element",
+      "id": "12",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/majority-element/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Design HashSet",
+      "id": "13",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/design-hashset/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Design HashMap",
+      "id": "14",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/design-hashmap/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Sort an Array",
+      "id": "15",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/sort-an-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Sort Colors",
+      "id": "16",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/sort-colors/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Top K Frequent Elements",
+      "id": "17",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Encode and Decode Strings",
+      "id": "18",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Range Sum Query 2D Immutable",
+      "id": "19",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Product of Array Except Self",
+      "id": "20",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Valid Sudoku",
+      "id": "21",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/valid-sudoku/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Longest Consecutive Sequence",
+      "id": "22",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Best Time to Buy And Sell Stock II",
+      "id": "24",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Majority Element II",
+      "id": "25",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/majority-element-ii",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Subarray Sum Equals K",
+      "id": "26",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-29",
+      "title": "First Missing Positive",
+      "id": "27",
+      "topic": "Arrays & Hashing",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/first-missing-positive/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Reverse String",
+      "id": "28",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/reverse-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Valid Palindrome",
+      "id": "29",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-palindrome/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Valid Palindrome II",
+      "id": "30",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Merge Strings Alternately",
+      "id": "31",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/merge-strings-alternately/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Merge Sorted Array",
+      "id": "32",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/merge-sorted-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Remove Duplicates From Sorted Array",
+      "id": "33",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Two Sum II Input Array Is Sorted",
+      "id": "34",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-01",
+      "title": "3Sum",
+      "id": "35",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/3sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-02",
+      "title": "4Sum",
+      "id": "36",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/4sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Rotate Array",
+      "id": "37",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/rotate-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Container With Most Water",
+      "id": "38",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/container-with-most-water/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Boats to Save People",
+      "id": "39",
+      "topic": "Two Pointers",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/boats-to-save-people/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Trapping Rain Water",
+      "id": "40",
+      "topic": "Two Pointers",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/trapping-rain-water/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Contains Duplicate II",
+      "id": "42",
+      "topic": "Sliding Window",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Best Time to Buy And Sell Stock",
+      "id": "43",
+      "topic": "Sliding Window",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Longest Substring Without Repeating Characters",
+      "id": "44",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Longest Repeating Character Replacement",
+      "id": "45",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Permutation In String",
+      "id": "46",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/permutation-in-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Minimum Size Subarray Sum",
+      "id": "47",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Find K Closest Elements",
+      "id": "48",
+      "topic": "Sliding Window",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/find-k-closest-elements/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Minimum Window Substring",
+      "id": "49",
+      "topic": "Sliding Window",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/minimum-window-substring/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Sliding Window Maximum",
+      "id": "50",
+      "topic": "Sliding Window",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/sliding-window-maximum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Baseball Game",
+      "id": "51",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/baseball-game/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Valid Parentheses",
+      "id": "52",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Implement Stack Using Queues",
+      "id": "53",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Implement Queue using Stacks",
+      "id": "54",
+      "topic": "Stack",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Min Stack",
+      "id": "55",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Evaluate Reverse Polish Notation",
+      "id": "56",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Generate Parentheses",
+      "id": "57",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/generate-parentheses/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Asteroid Collision",
+      "id": "58",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/asteroid-collision/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Daily Temperatures",
+      "id": "59",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Online Stock Span",
+      "id": "61",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/online-stock-span/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Car Fleet",
+      "id": "62",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/car-fleet/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Simplify Path",
+      "id": "63",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/simplify-path/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Decode String",
+      "id": "64",
+      "topic": "Stack",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/decode-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Maximum Frequency Stack",
+      "id": "65",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/maximum-frequency-stack/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Largest Rectangle In Histogram",
+      "id": "66",
+      "topic": "Stack",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Binary Search",
+      "id": "67",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/binary-search/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Search Insert Position",
+      "id": "68",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/search-insert-position/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Guess Number Higher Or Lower",
+      "id": "69",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Sqrt(x)",
+      "id": "70",
+      "topic": "Binary Search",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/sqrtx/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Search a 2D Matrix",
+      "id": "71",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Koko Eating Bananas",
+      "id": "72",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/koko-eating-bananas/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Capacity to Ship Packages Within D Days",
+      "id": "73",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Find Minimum In Rotated Sorted Array",
+      "id": "74",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Search In Rotated Sorted Array",
+      "id": "75",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Search In Rotated Sorted Array II",
+      "id": "76",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Time Based Key Value Store",
+      "id": "77",
+      "topic": "Binary Search",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/time-based-key-value-store/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Split Array Largest Sum",
+      "id": "78",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/split-array-largest-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Median of Two Sorted Arrays",
+      "id": "79",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Find in Mountain Array",
+      "id": "81",
+      "topic": "Binary Search",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/find-in-mountain-array",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Reverse Linked List",
+      "id": "82",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Merge Two Sorted Lists",
+      "id": "83",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Linked List Cycle",
+      "id": "84",
+      "topic": "Linked List",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/linked-list-cycle/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Reorder List",
+      "id": "85",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/reorder-list/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Remove Nth Node From End of List",
+      "id": "86",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Copy List With Random Pointer",
+      "id": "87",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Add Two Numbers",
+      "id": "88",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/add-two-numbers/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Find The Duplicate Number",
+      "id": "89",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Reverse Linked List II",
+      "id": "90",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Design Circular Queue",
+      "id": "91",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/design-circular-queue/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-22",
+      "title": "LRU Cache",
+      "id": "92",
+      "topic": "Linked List",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/lru-cache/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-23",
+      "title": "LFU Cache",
+      "id": "93",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/lfu-cache/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Merge K Sorted Lists",
+      "id": "94",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Reverse Nodes In K Group",
+      "id": "95",
+      "topic": "Linked List",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Binary Tree Inorder Traversal",
+      "id": "96",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Binary Tree Preorder Traversal",
+      "id": "97",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Binary Tree Postorder Traversal",
+      "id": "98",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Invert Binary Tree",
+      "id": "100",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/invert-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Maximum Depth of Binary Tree",
+      "id": "101",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Diameter of Binary Tree",
+      "id": "102",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Balanced Binary Tree",
+      "id": "103",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/balanced-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Same Tree",
+      "id": "104",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/same-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Subtree of Another Tree",
+      "id": "105",
+      "topic": "Trees",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "id": "106",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Insert into a Binary Search Tree",
+      "id": "107",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Delete Node in a BST",
+      "id": "108",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Binary Tree Level Order Traversal",
+      "id": "109",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Binary Tree Right Side View",
+      "id": "110",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Construct Quad Tree",
+      "id": "111",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/construct-quad-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Count Good Nodes In Binary Tree",
+      "id": "112",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Validate Binary Search Tree",
+      "id": "113",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Kth Smallest Element In a Bst",
+      "id": "114",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+      "id": "115",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-31",
+      "title": "House Robber III",
+      "id": "116",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/house-robber-iii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Delete Leaves With a Given Value",
+      "id": "117",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/delete-leaves-with-a-given-value",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Binary Tree Maximum Path Sum",
+      "id": "118",
+      "topic": "Trees",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Serialize And Deserialize Binary Tree",
+      "id": "120",
+      "topic": "Trees",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Kth Largest Element In a Stream",
+      "id": "121",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Last Stone Weight",
+      "id": "122",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/last-stone-weight/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "title": "K Closest Points to Origin",
+      "id": "123",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Kth Largest Element In An Array",
+      "id": "124",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Task Scheduler",
+      "id": "125",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/task-scheduler/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Design Twitter",
+      "id": "126",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/design-twitter/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Single Threaded CPU",
+      "id": "127",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/single-threaded-cpu/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Reorganize String",
+      "id": "128",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/reorganize-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Longest Happy String",
+      "id": "129",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-happy-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Car Pooling",
+      "id": "130",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/car-pooling/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Find Median From Data Stream",
+      "id": "131",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-06",
+      "title": "IPO",
+      "id": "132",
+      "topic": "Heap / Priority Queue",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/ipo/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Implement Trie Prefix Tree",
+      "id": "133",
+      "topic": "Tries",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Design Add And Search Words Data Structure",
+      "id": "134",
+      "topic": "Tries",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Extra Characters in a String",
+      "id": "135",
+      "topic": "Tries",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/extra-characters-in-a-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Word Search II",
+      "id": "136",
+      "topic": "Tries",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/word-search-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Sum of All Subsets XOR Total",
+      "id": "137",
+      "topic": "Backtracking",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Subsets",
+      "id": "139",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/subsets/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Combination Sum",
+      "id": "140",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/combination-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-09",
+      "title": "Combination Sum II",
+      "id": "141",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/combination-sum-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Combinations",
+      "id": "142",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/combinations/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Permutations",
+      "id": "143",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/permutations/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Subsets II",
+      "id": "144",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/subsets-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Permutations II",
+      "id": "145",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/permutations-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Word Search",
+      "id": "146",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/word-search/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Palindrome Partitioning",
+      "id": "147",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/palindrome-partitioning/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Letter Combinations of a Phone Number",
+      "id": "148",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Matchsticks to Square",
+      "id": "149",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/matchsticks-to-square/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Partition to K Equal Sum Subsets",
+      "id": "150",
+      "topic": "Backtracking",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-14",
+      "title": "N Queens",
+      "id": "151",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/n-queens/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-14",
+      "title": "N Queens II",
+      "id": "152",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/n-queens-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Word Break II",
+      "id": "154",
+      "topic": "Backtracking",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/word-break-ii",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Island Perimeter",
+      "id": "155",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/island-perimeter/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-16",
+      "title": "Verifying An Alien Dictionary",
+      "id": "156",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Find the Town Judge",
+      "id": "157",
+      "topic": "Graphs",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/find-the-town-judge",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Number of Islands",
+      "id": "158",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/number-of-islands/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Max Area of Island",
+      "id": "159",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/max-area-of-island/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Clone Graph",
+      "id": "160",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/clone-graph/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Walls And Gates",
+      "id": "161",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/walls-and-gates/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Rotting Oranges",
+      "id": "162",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/rotting-oranges/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Pacific Atlantic Water Flow",
+      "id": "163",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Surrounded Regions",
+      "id": "164",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/surrounded-regions/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Open The Lock",
+      "id": "165",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/open-the-lock/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Course Schedule",
+      "id": "166",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/course-schedule/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Course Schedule II",
+      "id": "167",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/course-schedule-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Graph Valid Tree",
+      "id": "168",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/graph-valid-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Course Schedule IV",
+      "id": "169",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/course-schedule-iv/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Number of Connected Components In An Undirected Graph",
+      "id": "170",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Redundant Connection",
+      "id": "171",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/redundant-connection/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Accounts Merge",
+      "id": "173",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/accounts-merge/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Evaluate Division",
+      "id": "174",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/evaluate-division/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Minimum Height Trees",
+      "id": "175",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/minimum-height-trees",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Word Ladder",
+      "id": "176",
+      "topic": "Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/word-ladder/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Climbing Stairs",
+      "id": "177",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Min Cost Climbing Stairs",
+      "id": "178",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-25",
+      "title": "N-th Tribonacci Number",
+      "id": "179",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-25",
+      "title": "House Robber",
+      "id": "180",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/house-robber/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-25",
+      "title": "House Robber II",
+      "id": "181",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/house-robber-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Longest Palindromic Substring",
+      "id": "182",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Palindromic Substrings",
+      "id": "183",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/palindromic-substrings/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Decode Ways",
+      "id": "184",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/decode-ways/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Coin Change",
+      "id": "185",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/coin-change/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Maximum Product Subarray",
+      "id": "186",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/maximum-product-subarray/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Word Break",
+      "id": "187",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/word-break/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Longest Increasing Subsequence",
+      "id": "188",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Partition Equal Subset Sum",
+      "id": "190",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Combination Sum IV",
+      "id": "191",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/combination-sum-iv/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Perfect Squares",
+      "id": "192",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/perfect-squares/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Integer Break",
+      "id": "193",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/integer-break/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Stone Game III",
+      "id": "194",
+      "topic": "1-D Dynamic Programming",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/stone-game-iii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-01",
+      "title": "Unique Paths",
+      "id": "195",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/unique-paths/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Unique Paths II",
+      "id": "196",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/unique-paths-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Minimum Path Sum",
+      "id": "197",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/minimum-path-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-02",
+      "title": "Longest Common Subsequence",
+      "id": "198",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Last Stone Weight II",
+      "id": "199",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/last-stone-weight-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Best Time to Buy And Sell Stock With Cooldown",
+      "id": "200",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-03",
+      "title": "Coin Change II",
+      "id": "201",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/coin-change-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Target Sum",
+      "id": "202",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/target-sum/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-04",
+      "title": "Interleaving String",
+      "id": "203",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/interleaving-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-05",
+      "title": "Stone Game",
+      "id": "204",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/stone-game/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-05",
+      "title": "Stone Game II",
+      "id": "205",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/stone-game-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Longest Increasing Path In a Matrix",
+      "id": "207",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Distinct Subsequences",
+      "id": "208",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/distinct-subsequences/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-07",
+      "title": "Edit Distance",
+      "id": "209",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/edit-distance/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Burst Balloons",
+      "id": "210",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/burst-balloons/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Regular Expression Matching",
+      "id": "211",
+      "topic": "2-D Dynamic Programming",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/regular-expression-matching/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Path with Minimum Effort",
+      "id": "212",
+      "topic": "Advanced Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Network Delay Time",
+      "id": "213",
+      "topic": "Advanced Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/network-delay-time/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Reconstruct Itinerary",
+      "id": "214",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/reconstruct-itinerary/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-09",
+      "title": "Min Cost to Connect All Points",
+      "id": "215",
+      "topic": "Advanced Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-10",
+      "title": "Swim In Rising Water",
+      "id": "216",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/swim-in-rising-water/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-10",
+      "title": "Alien Dictionary",
+      "id": "217",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/alien-dictionary/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Cheapest Flights Within K Stops",
+      "id": "218",
+      "topic": "Advanced Graphs",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-11",
+      "title": "Find Critical and Pseudo Critical Edges in Minimum Spanning Tree",
+      "id": "219",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Build a Matrix With Conditions",
+      "id": "220",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/build-a-matrix-with-conditions",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-12",
+      "title": "Greatest Common Divisor Traversal",
+      "id": "221",
+      "topic": "Advanced Graphs",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/greatest-common-divisor-traversal",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-14",
+      "title": "Lemonade Change",
+      "id": "223",
+      "topic": "Greedy",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/lemonade-change/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-14",
+      "title": "Maximum Subarray",
+      "id": "224",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/maximum-subarray/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-14",
+      "title": "Maximum Sum Circular Subarray",
+      "id": "225",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Longest Turbulent Subarray",
+      "id": "226",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/longest-turbulent-subarray/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Jump Game",
+      "id": "227",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/jump-game/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-15",
+      "title": "Jump Game II",
+      "id": "228",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/jump-game-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Jump Game VII",
+      "id": "229",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/jump-game-vii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Gas Station",
+      "id": "230",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/gas-station/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-16",
+      "title": "Hand of Straights",
+      "id": "231",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/hand-of-straights/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Dota2 Senate",
+      "id": "232",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/dota2-senate/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Merge Triplets to Form Target Triplet",
+      "id": "233",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Partition Labels",
+      "id": "234",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/partition-labels/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Valid Parenthesis String",
+      "id": "235",
+      "topic": "Greedy",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Candy",
+      "id": "236",
+      "topic": "Greedy",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/candy/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-18",
+      "title": "Insert Interval",
+      "id": "237",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/insert-interval/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-19",
+      "title": "Merge Intervals",
+      "id": "238",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/merge-intervals/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-19",
+      "title": "Non Overlapping Intervals",
+      "id": "239",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-19",
+      "title": "Meeting Rooms",
+      "id": "240",
+      "topic": "Intervals",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/meeting-rooms/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Meeting Rooms II",
+      "id": "242",
+      "topic": "Intervals",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/meeting-rooms-ii/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Meeting Rooms III",
+      "id": "243",
+      "topic": "Intervals",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/meeting-rooms-iii",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Minimum Interval to Include Each Query",
+      "id": "244",
+      "topic": "Intervals",
+      "difficulty": "Hard",
+      "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Excel Sheet Column Title",
+      "id": "245",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Greatest Common Divisor of Strings",
+      "id": "246",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "id": "247",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-23",
+      "title": "Transpose Matrix",
+      "id": "248",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/transpose-matrix",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-23",
+      "title": "Rotate Image",
+      "id": "249",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/rotate-image/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-23",
+      "title": "Spiral Matrix",
+      "id": "250",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/spiral-matrix/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Set Matrix Zeroes",
+      "id": "251",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Happy Number",
+      "id": "252",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/happy-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Plus One",
+      "id": "253",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/plus-one/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-25",
+      "title": "Roman to Integer",
+      "id": "254",
+      "topic": "Math & Geometry",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/roman-to-integer/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-25",
+      "title": "Pow(x, n)",
+      "id": "255",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/powx-n/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-26",
+      "title": "Multiply Strings",
+      "id": "256",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/multiply-strings/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-26",
+      "title": "Detect Squares",
+      "id": "257",
+      "topic": "Math & Geometry",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/detect-squares/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-28",
+      "title": "Single Number",
+      "id": "259",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/single-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-28",
+      "title": "Number of 1 Bits",
+      "id": "260",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-29",
+      "title": "Counting Bits",
+      "id": "261",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/counting-bits/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-29",
+      "title": "Add Binary",
+      "id": "262",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/add-binary/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-30",
+      "title": "Reverse Bits",
+      "id": "263",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/reverse-bits/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-30",
+      "title": "Missing Number",
+      "id": "264",
+      "topic": "Bit Manipulation",
+      "difficulty": "Easy",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Sum of Two Integers",
+      "id": "265",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/sum-of-two-integers/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Reverse Integer",
+      "id": "266",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/reverse-integer/",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Bitwise AND of Numbers Range",
+      "id": "267",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+      "status": "",
+      "note": ""
+    },
+    {
+      "date": "2027-01-02",
+      "title": "Minimum Array End",
+      "id": "268",
+      "topic": "Bit Manipulation",
+      "difficulty": "Medium",
+      "url": "https://leetcode.com/problems/minimum-array-end/",
+      "status": "",
+      "note": ""
+    }
+  ],
+  "sessions": [
+    {
+      "date": "2026-09-27",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-11-29",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-12-06",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-12-13",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-12-20",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2026-12-27",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2027-01-03",
+      "title": "Review — re-solve your \"Redo\" problems + 3 random older ones"
+    },
+    {
+      "date": "2027-01-04",
+      "title": "Final review — re-solve \"Redo\": Arrays & Hashing, Two Pointers, Sliding Window, Stack"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "Final review — re-solve \"Redo\": Binary Search, Linked List, Heap"
+    },
+    {
+      "date": "2027-01-06",
+      "title": "Final review — re-solve \"Redo\": Trees, Tries, Backtracking"
+    },
+    {
+      "date": "2027-01-07",
+      "title": "Final review — re-solve \"Redo\": Graphs, Advanced Graphs"
+    },
+    {
+      "date": "2027-01-08",
+      "title": "Final review — re-solve \"Redo\": 1-D and 2-D DP"
+    },
+    {
+      "date": "2027-01-09",
+      "title": "Final review — re-solve \"Redo\": Greedy, Intervals, Math, Bit Manipulation"
+    },
+    {
+      "date": "2027-01-10",
+      "title": "Rest / catch-up"
+    },
+    {
+      "date": "2027-01-11",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-12",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-13",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-14",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-16",
+      "title": "Timed mock — 1 hard or 2 mediums in 45 min, running code"
+    },
+    {
+      "date": "2027-01-17",
+      "title": "Final pass on anything still marked \"Redo\""
+    }
+  ]
+}
